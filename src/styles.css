@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Langar&display=swap");
+
+.App {
+  text-align: center;
+  font-family: "Langar", cursive;
+}
+
+input {
+  padding: 2rem;
+  font-size: large;
+}
+
+span {
+  cursor: pointer;
+  padding: 0.5rem;
+  font-size: x-large;
+}
+
+.meaning {
+  font-size: large;
+  font-weight: bold;
+  padding-top: 1rem;
+}
